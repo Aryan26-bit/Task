@@ -66,9 +66,10 @@ button {
 }
 
 .generateBtn {
+  margin-top: 10px;
   width: 100%;
   font-size: 20px;
-  padding: 20px;
+  padding: 15px;
   color: #18171f;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
@@ -79,11 +80,15 @@ button {
 }
 
 .password-strength {
-  width: 100%;
+  width: 97%;
   display: flex;
   justify-content: space-between;
   padding-bottom: 12px;
   color: white;
+  padding: 10px 10px 10px 10px;
+  margin-bottom: 10px;
+  /* border-radius: 1px solid black; */
+  background-color: #18171f;
 }
 
 .container2 {
